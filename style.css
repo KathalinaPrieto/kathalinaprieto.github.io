@@ -24,3 +24,11 @@ text-decoration: underline;
 p{
 color: #000000
 }
+
+
+div#myDiv{ 
+width:350px; 
+height:250px; 
+img: src="internet.png" no-repeat; 
+} 
+div#myDiv:hover{ filter:blur(10px); }
