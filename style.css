@@ -1,5 +1,5 @@
 body {
- background-image: linear-gradient(#FDFEFE, #A36100);
+ background-image: linear-gradient(#FDFEFE, #B01E1E);
  font-family: monospace, serif;
  font-size: 100%
 }
@@ -25,18 +25,3 @@ p{
 color: #000000
 }
 
-
-.ejemploblur {
-   -webkit-filter: blur(3px);
-   -moz-filter: blur(3px);
-   -o-filter: blur(3px);
-   -ms-filter: blur(3px);
-   filter: blur(3px);
-}
-.ejemploblur:hover {
-   -webkit-filter: blur(0px);
-   -moz-filter: blur(0px);
-   -o-filter: blur(0px);
-   -ms-filter: blur(0px);
-   filter: blur(0px);
-}
