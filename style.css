@@ -10,6 +10,11 @@ color: #273746;
 text-align: center;
 }
 
+hr{
+height: 1px;
+background-color: black;
+}
+
 h2{
 font-size:200%;
 color:#7B241C;
