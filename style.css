@@ -1,22 +1,22 @@
 body {
- background-image: linear-gradient(#FDFEFE, #4682B4);
+ background-image: linear-gradient(#FDFEFE, #264C94);
  font-family: monospace, serif;
  font-size: 100%
 }
 
 h1{
 font-size: 300%;
-color: #00008B;
+color: #0B0F5;
 text-align: center;
 }
 
 
 h2{
 font-size:200%;
-color:#800000;
+color:#640404;
 padding-left: 15px;
 }
 
 p{
-color: #1B2631
+color: #000000
 }
